@@ -38,5 +38,6 @@ C_arrays_problems/
    ```bash
    git clone https://github.com/yourusername/C_arrays_problems.git
    cd C_arrays_problems
-gcc basic/sum_of_array.c -o sum
-./sum
+   
+   gcc basic/sum_of_array.c -o sum
+   ./sum
